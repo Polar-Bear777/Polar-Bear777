@@ -48,8 +48,5 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <h2>Статистика</h2>
-<!---Для компактной версии-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Polar-Bear777anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiPolar-Bear777anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=Polar-Bear777)
