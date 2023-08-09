@@ -1,6 +1,8 @@
 <img src="/header.png" alt="banner about me">
 <h1 align="center">О себе (っ◔◡◔)っ</h1>
 
+<p>Живу в&nbsp;России, закончил курс веб-разработчика в&nbsp;𝟤🍩𝟤𝟥 году от&nbsp;Яндекс.Практикум. Продолжаю развиваться в 𝐼𝒯-сфере и&nbsp;хочу стать высококвалифицированным специалистом, который сможет выполнить любой по&nbsp;сложности проект за&nbsp;минимальные сроки и&nbsp;с&nbsp;высоким качеством продукта на&nbsp;выходе. 💘💥 </p>
+
 <h3>💾 Базы данных</h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,3 +52,7 @@
 <h2>Статистика</h2>
 
 ![](https://komarev.com/ghpvc/?username=Polar-Bear777)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Polar-Bear777)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polar-Bear777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
